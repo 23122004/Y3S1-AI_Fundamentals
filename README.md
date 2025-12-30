@@ -8,7 +8,7 @@ This repository contains the coursework and projects developed during my studies
 * **Instructor:** Assoc. Prof. Dr. **Le Hoai Bac** (PGS.TS Lê Hoài Bắc)
 * **Institution:** VNU-HCM University of Science
 * **Semester:** [Điền học kỳ của bạn, ví dụ: Fall 2025]
-* **Repository Convention:** `Y3S1-CSAI`
+* **Repository Convention:** `Y3S1-Artificial_Intelligence_Fundamentals`
 
 ---
 
